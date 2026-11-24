@@ -12,6 +12,7 @@ public class hmscontroller {
         return "Hospital management system isscmv,jvhs running";
 
         System.out.println("yuvaraju");
+        System.out.println("rajugit ");
 
     }
 
