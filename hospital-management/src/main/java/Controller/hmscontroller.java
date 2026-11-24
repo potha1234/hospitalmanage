@@ -17,6 +17,9 @@ public class hmscontroller {
         System.out.println("ra");
         System.out.println("ju");
 
+
+        System.out.println("hello word");
+
     }
 
 }
