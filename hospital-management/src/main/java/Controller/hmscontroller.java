@@ -11,6 +11,7 @@ public class hmscontroller {
     @GetMapping("/health")
     public String health() {
         System.out.println("yuvaraju");
+        System.out.println(hhh);
         return "Hospital management system is running";
     }
 
