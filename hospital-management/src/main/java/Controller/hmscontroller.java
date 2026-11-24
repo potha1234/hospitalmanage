@@ -9,7 +9,9 @@ public class hmscontroller {
 
     @Getmapping("/health")
     public String health() {
-        return "Hospital management system is running";
+        return "Hospital management system isscmv,jvhs running";
+
+        System.out.println("yuvaraju");
 
     }
 
