@@ -12,4 +12,6 @@ public class HospitalManagementApplication {
 		SpringApplication.run(HospitalManagementApplication.class, args);
 	}
   System.out.println("ru");
+        System.out.println("sss");
+
 }
